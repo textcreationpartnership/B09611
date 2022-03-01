@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Oates's answer to Count Teckly's letter giving him a true account of the present horrible plot.</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09611</idno>
+            <idno type="STC">Wing O28A</idno>
+            <idno type="STC">ESTC R215683</idno>
+            <idno type="EEBO-CITATION">61297108</idno>
+            <idno type="OCLC">ocm 61297108</idno>
+            <idno type="VID">180637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180637)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Oates's answer to Count Teckly's letter giving him a true account of the present horrible plot.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+                  <author>Thököly, Imre, gróf, 1657-1705.</author>
+               </titleStmt>
+               <extent>1sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:180637:1" rendition="simple:additions"/>
+            <head>Dr. OATES's ANSWER To COUNT TECKLY's LETTER, Giving Him a True Account of the Preſent Horrible Plot.</head>
+            <opener>
+               <salute>May it pleaſe your <hi>Excellency,</hi>
+               </salute>
+            </opener>
+            <p>THe inexpreſſible favour you have ſhewn to the Adorer (not only of his <hi>Ma<g ref="char:EOLhyphen"/>hometan</hi> Majeſty the Grand <hi>Seignior,</hi> your ſelf, the <hi>Mahometan</hi> Laws, and Religion, but alſo of your Excellency's Diſcenting Principle from your Chriſtian Maſter, which is a true Parable with us here in theſe; King<g ref="char:EOLhyphen"/>doms) has fill'd me with amazement to find a Poet of our Party, to anſwer the in<g ref="char:EOLhyphen"/>comparable Letter you were pleas'd to honour me withal; For indeed I am not good at writing or reading, my buſineſs is only <hi>Plot-vouching;</hi> for which (I thank <hi>Mahomet)</hi> I am famous all over the World. But at laſt (rather than be ſilent) I have by many importunities, perſuaded him that was Author of a Famous Book, (that I believe your Excellency has heard of) Intituled, <hi>a Popiſh Succeſſor,</hi> &amp;c. to write this Anſwer, which will inform you the truth; the whole truth, and nothing but the truth: which is more then ever I ſwore, or ſaid in all my life before. In the firſt place I do from the bottom of my heart aſſure you (which is more than I durſt ſay of my ſwearing in the late <hi>Popiſh Plot,</hi> tho'I had one <hi>Prance</hi> an Eminent Murderer by Oath; to back me with a well ſworn improbable Murder of a Famous Juſtice of the Peace) that I have as good wiſhes and hearty Prayers for the <hi>Mahometan Cauſe,</hi> as any man breathing in Chriſtendom, of which I am under colour a Member, tho'never Bap<g ref="char:EOLhyphen"/>tiz'd; and have ventur'd my Damnation as far as any that puts forth Chriſtian Cou<g ref="char:EOLhyphen"/>lers on a <hi>Mahometan</hi> Deſign, as I ſhall give your Exellency a true Relation. In the beginning of my true ſwearing, (of which every body is ſenſible) was to the Earl of <hi>Shaftsbury</hi>'s contrivance, I knowing of the truth of the matter, but was reſolved to make my ſelf Famous, as you are ſenſible I have. I muſt needs acknowledge my ſelf a ſincere adorer of <hi>Mahomet</hi> by my perſecuting Oaths againſt the true Lovers of the King of <hi>England,</hi> whether <hi>Proteſtents</hi> or <hi>Papiſts;</hi> (I mean not the the <hi>True Blew Proteſtants)</hi> for as I told your Excellency before, They were for the <hi>Mahome<g ref="char:EOLhyphen"/>tan Cauſe,</hi> we have always ſtood by. Therefore to anſwer your Letter without many more Parentheſes (tho' my life does admit of the Devil and all; who is beſt ac<g ref="char:EOLhyphen"/>quainted with all my proceedings) (as our Sea-men ſay) from Stem, to Stearn. I am, and all the <hi>Mahomeatan Proteſtants,</hi> under perſecution; for the ſham <hi>Popiſh Plot</hi> which was to introduce a true <hi>Phanatical Conſpitacy,</hi> that is alſo confounded: There<g ref="char:EOLhyphen"/>fore we have deſign'd a day of <hi>Humiliation,</hi> (not only for the defeat of our <hi>Un-Christian Cauſe</hi> here) but ſo. your <hi>Mahometan Cauſe</hi> before <hi>Vienna,</hi> as the Chriſtian <hi>Ga<g ref="char:EOLhyphen"/>zets</hi> do inform us, whoſe truth we ſtrive to confound, by our good wiſhes, and daily <hi>Mahometan</hi> Prayers; and yet we cannot prevail. At the Chriſtian Thanksgiving for the Diſcovery of our <hi>Horrid Conſpiracy,</hi> did we not abuſe the Government, and affrons the Clergy, by ſending up perfidious Notes to their Pulpits, wherein we juſtify'd (thoſe that rightly ſuffer'd for contriving the death of the King and the Royal Family) to be abſolutely Murder'd and yet this does us no good, neither lies it in my power (for what would it avail me to tell your Excellence a lie) to reſiſt by thoſe Methods your Excellence requires? for upon the faith of (what ſhall I ſay) a Gentleman, that I am none; a Doctor I never was, and a Chriſtian (my Father be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:180637:2"/>
+an Anabaptiſt) would never make me. But (by <hi>Mahomet</hi> whom I adore,) I know nothing of the <hi>Black-Bills</hi> by me ſworn in the No <hi>Popiſh Plot:</hi> for inſtead of thouſands, I never ſaw one, nor does it lie in my power to tell you what they are like. Therefore I cannot aſſiſt his Majeſty, the Grand Seignior, with any thing of that kind: For by our Prophet <hi>Mahomet,</hi> they were inviſible to me too. I perceive, now our <hi>Cauſe</hi> is in its Wane, 'twill expire like the ſnuff of a Candle, having no Sun to renew its light by; unleſs the <hi>Son of Perdition,</hi> which will caſt a damn'd pur-blind Reflection. For the <hi>Spaniſh Pilgrims</hi> (as I have already ſworn, I will not tell you a Lie, tho' I ſcarce know how to frame my ſelf to a Truth,) was an <hi>Alderſgate-ſtreet</hi> Contri<g ref="char:EOLhyphen"/>vance, to carry on our Deſign; and a Stratagem to amuſe the Rabble; for upon my <hi>Mahometan</hi> Faith, there was never any ſuch thing. Therefore his Majeſty, the <hi>Turkiſh</hi> Emperour, and my ever Honoured Prince, cannot poſſibly expect any belief from them. I am extreamly willing to change my Climate, had I but money to bear my Charges: for (being in the vein of ſpeaking Truth) I was fore'd to pawn ſome of my Contribution plate to redeem me from the Tenter-hooks of the <hi>Poultry Comp<g ref="char:EOLhyphen"/>ters</hi> which, an't pleaſe your Excellence is a place, a man cannot get clear of with<g ref="char:EOLhyphen"/>out tearing his cloaths: And indeed mine began to be out at Elbows, for want of a <hi>Plot-allowance.</hi> (Nay) my <hi>Plot</hi> it ſelf I was fore'd to pawn, to <hi>Archibald Sparks</hi> Serjeant at Mace belonging to the Shrievedom of <hi>London,</hi> who has no more Faith in my <hi>Plot,</hi> than a <hi>Jew</hi> has in Chriſtianity: and now I have nothing elſe to pawn, unleſs it be my Soul to the Devil, which I fear he will lend nothing upon, (being his own already) without a Bribe Therefore I do not find any poſſibility of my going to wait on my Grateful Maſter the <hi>G. S.</hi> my Janiſaries have left me, having no faith in my ſwearing, when there is no money ſtirring And now the Giant Perjuries of your humble Ser<g ref="char:EOLhyphen"/>vant, are dwindled to the Dwarfiſh belief of a Loyal Subject; ſo that I lie expos'd to <hi>Jack Ketch</hi> in his Office. I muſt confeſs I began to be tired with our <hi>True Blue Prote<g ref="char:EOLhyphen"/>ſtant Bums,</hi> (having Bugger'd almoſt the whole Party over) that I long for thoſe <hi>Ma<g ref="char:EOLhyphen"/>hometan</hi> back-ſides, aſſured me in the Grand Seigniors Maſculine Seraglio. But that I now deſpair of, unleſs his <hi>Mahometan</hi> Majeſty, by a ſpeedy ſupply of money from his own Treaſury, do redeem me from the Juſtice of thoſe Chriſtian Princes, I have (I muſt needs confeſs) by my Perjuries abus'd, and ſet all honeſty in a flame, which is now like to ſcorch me to death: except I ſay, the <hi>G. S.</hi> and your ſelf, (who have expreſt ſo much love to me) relieve your Vaſſal: for by <hi>Mahomet,</hi> I adore you be<g ref="char:EOLhyphen"/>fore the Crucified Saviour you deſign'd to perſecute. For I was juſt to the <hi>True Blew Mahometan</hi> Cauſe, and will continue ſtedfaſt. For I will Lie for it, Swear for it, go to the Devil, and be Damn'd for it, if it will do the <hi>Cauſe</hi> any good. If you will ſend Money to bear the charge of their Voyage, I do not doubt but to bring the <hi>G. S.</hi> a hundred thouſand <hi>True Mahometan Proteſtants,</hi> that (ſince your Letter) I have recommended your Excellencys reſpects too. Nay, a great part of them are in the Village of <hi>London;</hi> and do talk, and will do as much for the good old <hi>Mahometan</hi> Cauſe, as ever. Our Prince <hi>Mon-Teckly</hi> has given us the ſlip; but <hi>Bethel-Teckly</hi> is as vigorous a Cauſe-monger ſtill as any man, and will be ready upon the leaſt Summons to head us, with the help of Sir <hi>William Waller,</hi> who lies ready at a Bawdy-houſe in <hi>Holland,</hi> and can eaſily give us his aſſiſtance, as he has promiſed; for he was the man that burnt his Saviour in Effigy, and therefore is true to the <hi>Mahometan</hi> Cauſe. But for thoſe <hi>Commiſſions</hi> you mention, I confeſs by the <hi>Mahometan</hi> Faith, I never ſaw one of e'm my ſelf. And for the Veſſel that brought me from <hi>Spain</hi> to <hi>Iſlington</hi> in a days time, to tell you the truth, was a great Lye of mine, becauſe I would be thought a worker of Miracles. The <hi>True Protestant Mahometans</hi> (ſend but money) you ſhall have them all; but the <hi>Black-Bills,</hi> I deny: the <hi>Spaniſh Pilgrims,</hi> I know no<g ref="char:EOLhyphen"/>thing of: the <hi>Iriſh Ruffins,</hi> was a Sham: the <hi>French Army</hi> was a Dream: <hi>Purbeck Invaders,</hi> was a trick to raiſe the Countrey: <hi>Screw'd Guns,</hi> and <hi>Chew'd Bullets</hi> were a Jeſt: but the <hi>Protestant-Flails,</hi> and <hi>Blunderbuſses,</hi> were a real Truth, to deſtroy the King, and all the Royal Family: and beat out the Brains of all their Loyal Sub<g ref="char:EOLhyphen"/>jects. And if they will ſerve you, you may command them, from your Excellencies great Admirer,</p>
+            <closer>
+               <signed>From the <hi>Amſterdam</hi> Coffee-houſe.
+<hi>Oates.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
